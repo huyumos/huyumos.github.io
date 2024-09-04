@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://huyumos.github.io/sitemap/sitemap.txt
